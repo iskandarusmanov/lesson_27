@@ -48,10 +48,10 @@
 
 //for_6
 
-let a = parseInt(prompt("Konfet narxini  kiriting"))
-for (let i = 1.2 ; i <= 2; i = i + 0.1) {
-    if ((i * 10) % 2 !== 0) {
-        continue;
-    }
-    alert(i*a + " UZS")
-}
+// let a = parseInt(prompt("Konfet narxini  kiriting"))
+// for (let i = 1.2 ; i <= 2; i = i + 0.1) {
+//     if ((i * 10) % 2 !== 0) {
+//         continue;
+//     }
+//     alert(i*a + " UZS")
+// }
